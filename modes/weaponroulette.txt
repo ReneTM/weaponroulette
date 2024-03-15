@@ -1,0 +1,13 @@
+"weaponroulette"
+{
+	"base"				"coop"
+	"maxplayers"		"4"
+	"hasdifficulty"		"0"
+
+	"DisplayTitle"		"Weapon Roulette"
+	"ShortDescription"	"10 Kills = 1 new random weapon"
+	"Description"		""
+
+	"Image"				"vgui/blog/weaponroulette"
+	"Author"			"ReneTM"
+}
